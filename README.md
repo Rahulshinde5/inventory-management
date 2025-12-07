@@ -1,4 +1,4 @@
-# 📦 Mini Inventory Manager - Frontend
+# 📦 Mini Inventory Manager
 
 A modern, responsive React-based inventory management system with real-time product tracking, stock movement recording, and comprehensive inventory analytics.
 
